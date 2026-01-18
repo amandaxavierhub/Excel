@@ -32,6 +32,8 @@ Este projeto apresenta uma solução completa para gestão financeira pessoal no
     * `=CONT.SE()` para cálculos que respeitam filtros de segmentação.
     * `=ARREDONDAR.PARA.CIMA()` para projeção de prazos.
  
+
+ 
 * <img width="1442" height="769" alt="Captura de tela 2026-01-18 075224" src="https://github.com/user-attachments/assets/1f8f5cff-d2bf-404e-afef-8250fa0fa5f6" />
 
 
